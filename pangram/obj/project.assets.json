@@ -5722,11 +5722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\tsclient\\Mac Exercism\\csharp\\pangram\\Pangram.csproj",
+      "projectUniqueName": "C:\\Users\\Anthony\\Desktop\\Work\\documents\\exercism\\csharp\\pangram\\Pangram.csproj",
       "projectName": "Pangram",
-      "projectPath": "\\\\tsclient\\Mac Exercism\\csharp\\pangram\\Pangram.csproj",
+      "projectPath": "C:\\Users\\Anthony\\Desktop\\Work\\documents\\exercism\\csharp\\pangram\\Pangram.csproj",
       "packagesPath": "C:\\Users\\Anthony\\.nuget\\packages\\",
-      "outputPath": "\\\\tsclient\\Mac Exercism\\csharp\\pangram\\obj\\",
+      "outputPath": "C:\\Users\\Anthony\\Desktop\\Work\\documents\\exercism\\csharp\\pangram\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

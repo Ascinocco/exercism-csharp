@@ -26,3 +26,17 @@
 \\tsclient\Mac Exercism\csharp\pangram\obj\Debug\netcoreapp2.0\Pangram.AssemblyInfo.cs
 \\tsclient\Mac Exercism\csharp\pangram\obj\Debug\netcoreapp2.0\Pangram.dll
 \\tsclient\Mac Exercism\csharp\pangram\obj\Debug\netcoreapp2.0\Pangram.pdb
+C:\Users\Anthony\Desktop\Work\documents\exercism\csharp\pangram\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Anthony\Desktop\Work\documents\exercism\csharp\pangram\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Anthony\Desktop\Work\documents\exercism\csharp\pangram\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Anthony\Desktop\Work\documents\exercism\csharp\pangram\bin\Debug\netcoreapp2.0\Pangram.deps.json
+C:\Users\Anthony\Desktop\Work\documents\exercism\csharp\pangram\bin\Debug\netcoreapp2.0\Pangram.runtimeconfig.json
+C:\Users\Anthony\Desktop\Work\documents\exercism\csharp\pangram\bin\Debug\netcoreapp2.0\Pangram.runtimeconfig.dev.json
+C:\Users\Anthony\Desktop\Work\documents\exercism\csharp\pangram\bin\Debug\netcoreapp2.0\Pangram.dll
+C:\Users\Anthony\Desktop\Work\documents\exercism\csharp\pangram\bin\Debug\netcoreapp2.0\Pangram.pdb
+C:\Users\Anthony\Desktop\Work\documents\exercism\csharp\pangram\obj\Debug\netcoreapp2.0\Pangram.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\Work\documents\exercism\csharp\pangram\obj\Debug\netcoreapp2.0\Pangram.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Work\documents\exercism\csharp\pangram\obj\Debug\netcoreapp2.0\Pangram.AssemblyInfoInputs.cache
+C:\Users\Anthony\Desktop\Work\documents\exercism\csharp\pangram\obj\Debug\netcoreapp2.0\Pangram.AssemblyInfo.cs
+C:\Users\Anthony\Desktop\Work\documents\exercism\csharp\pangram\obj\Debug\netcoreapp2.0\Pangram.dll
+C:\Users\Anthony\Desktop\Work\documents\exercism\csharp\pangram\obj\Debug\netcoreapp2.0\Pangram.pdb
