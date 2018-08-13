@@ -1,0 +1,14 @@
+\\vmware-host\Shared Folders\csharp\space-age\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+\\vmware-host\Shared Folders\csharp\space-age\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+\\vmware-host\Shared Folders\csharp\space-age\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+\\vmware-host\Shared Folders\csharp\space-age\bin\Debug\netcoreapp2.0\SpaceAge.deps.json
+\\vmware-host\Shared Folders\csharp\space-age\bin\Debug\netcoreapp2.0\SpaceAge.runtimeconfig.json
+\\vmware-host\Shared Folders\csharp\space-age\bin\Debug\netcoreapp2.0\SpaceAge.runtimeconfig.dev.json
+\\vmware-host\Shared Folders\csharp\space-age\bin\Debug\netcoreapp2.0\SpaceAge.dll
+\\vmware-host\Shared Folders\csharp\space-age\bin\Debug\netcoreapp2.0\SpaceAge.pdb
+\\vmware-host\Shared Folders\csharp\space-age\obj\Debug\netcoreapp2.0\SpaceAge.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\csharp\space-age\obj\Debug\netcoreapp2.0\SpaceAge.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\csharp\space-age\obj\Debug\netcoreapp2.0\SpaceAge.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\csharp\space-age\obj\Debug\netcoreapp2.0\SpaceAge.AssemblyInfo.cs
+\\vmware-host\Shared Folders\csharp\space-age\obj\Debug\netcoreapp2.0\SpaceAge.dll
+\\vmware-host\Shared Folders\csharp\space-age\obj\Debug\netcoreapp2.0\SpaceAge.pdb

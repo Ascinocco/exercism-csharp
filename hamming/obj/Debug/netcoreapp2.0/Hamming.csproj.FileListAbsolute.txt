@@ -1,0 +1,13 @@
+\\vmware-host\Shared Folders\csharp\hamming\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+\\vmware-host\Shared Folders\csharp\hamming\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+\\vmware-host\Shared Folders\csharp\hamming\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+\\vmware-host\Shared Folders\csharp\hamming\bin\Debug\netcoreapp2.0\Hamming.deps.json
+\\vmware-host\Shared Folders\csharp\hamming\bin\Debug\netcoreapp2.0\Hamming.runtimeconfig.json
+\\vmware-host\Shared Folders\csharp\hamming\bin\Debug\netcoreapp2.0\Hamming.runtimeconfig.dev.json
+\\vmware-host\Shared Folders\csharp\hamming\bin\Debug\netcoreapp2.0\Hamming.dll
+\\vmware-host\Shared Folders\csharp\hamming\bin\Debug\netcoreapp2.0\Hamming.pdb
+\\vmware-host\Shared Folders\csharp\hamming\obj\Debug\netcoreapp2.0\Hamming.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\csharp\hamming\obj\Debug\netcoreapp2.0\Hamming.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\csharp\hamming\obj\Debug\netcoreapp2.0\Hamming.AssemblyInfo.cs
+\\vmware-host\Shared Folders\csharp\hamming\obj\Debug\netcoreapp2.0\Hamming.dll
+\\vmware-host\Shared Folders\csharp\hamming\obj\Debug\netcoreapp2.0\Hamming.pdb
