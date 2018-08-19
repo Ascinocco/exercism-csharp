@@ -1,0 +1,4 @@
+/Users/anthonyscinocco/Exercism/csharp/robot-name/obj/Debug/netcoreapp2.1/RobotName.csprojResolveAssemblyReference.cache
+/Users/anthonyscinocco/Exercism/csharp/robot-name/obj/Debug/netcoreapp2.1/RobotName.csproj.CoreCompileInputs.cache
+/Users/anthonyscinocco/Exercism/csharp/robot-name/obj/Debug/netcoreapp2.1/RobotName.AssemblyInfoInputs.cache
+/Users/anthonyscinocco/Exercism/csharp/robot-name/obj/Debug/netcoreapp2.1/RobotName.AssemblyInfo.cs

@@ -5755,30 +5755,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Anthony\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/anthonyscinocco/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anthony\\Desktop\\Work\\documents\\exercism\\csharp\\leap\\Leap.csproj",
+      "projectUniqueName": "/Users/anthonyscinocco/Exercism/csharp/leap/Leap.csproj",
       "projectName": "Leap",
-      "projectPath": "C:\\Users\\Anthony\\Desktop\\Work\\documents\\exercism\\csharp\\leap\\Leap.csproj",
-      "packagesPath": "C:\\Users\\Anthony\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anthony\\Desktop\\Work\\documents\\exercism\\csharp\\leap\\obj\\",
+      "projectPath": "/Users/anthonyscinocco/Exercism/csharp/leap/Leap.csproj",
+      "packagesPath": "/Users/anthonyscinocco/.nuget/packages/",
+      "outputPath": "/Users/anthonyscinocco/Exercism/csharp/leap/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Anthony\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/anthonyscinocco/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5795,22 +5793,23 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
+          "Microsoft.NETCore.App": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "2.0",
+            "autoReferenced": true
+          },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
-            "version": "[15.8.0, )"
-          },
-          "Microsoft.NETCore.App": {
-            "target": "Package",
-            "version": "[2.0.0, )",
-            "autoReferenced": true
+            "version": "15.8.0"
           },
           "xunit": {
             "target": "Package",
-            "version": "[2.4.0, )"
+            "version": "2.4.0"
           },
           "xunit.runner.visualstudio": {
             "target": "Package",
-            "version": "[2.4.0, )"
+            "version": "2.4.0"
           }
         },
         "imports": [
