@@ -1,5 +1,10 @@
-﻿<Properties StartupConfiguration="{E50FE6C1-0C88-43DB-AD9B-82718ACD8308}|Default">
-  <MonoDevelop.Ide.Workbench />
+﻿<Properties StartupConfiguration="{AEF7F406-193A-47BE-92C0-18AF377C3848}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RobotName.cs">
+    <Files>
+      <File FileName="RobotNameTest.cs" Line="10" Column="25" />
+      <File FileName="RobotName.cs" Line="72" Column="55" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.RobotName PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

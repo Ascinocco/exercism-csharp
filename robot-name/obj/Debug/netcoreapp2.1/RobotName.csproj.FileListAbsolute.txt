@@ -1,4 +1,14 @@
+/Users/anthonyscinocco/Exercism/csharp/robot-name/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/anthonyscinocco/Exercism/csharp/robot-name/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/anthonyscinocco/Exercism/csharp/robot-name/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/anthonyscinocco/Exercism/csharp/robot-name/bin/Debug/netcoreapp2.1/RobotName.deps.json
+/Users/anthonyscinocco/Exercism/csharp/robot-name/bin/Debug/netcoreapp2.1/RobotName.runtimeconfig.json
+/Users/anthonyscinocco/Exercism/csharp/robot-name/bin/Debug/netcoreapp2.1/RobotName.runtimeconfig.dev.json
+/Users/anthonyscinocco/Exercism/csharp/robot-name/bin/Debug/netcoreapp2.1/RobotName.dll
+/Users/anthonyscinocco/Exercism/csharp/robot-name/bin/Debug/netcoreapp2.1/RobotName.pdb
 /Users/anthonyscinocco/Exercism/csharp/robot-name/obj/Debug/netcoreapp2.1/RobotName.csprojResolveAssemblyReference.cache
 /Users/anthonyscinocco/Exercism/csharp/robot-name/obj/Debug/netcoreapp2.1/RobotName.csproj.CoreCompileInputs.cache
 /Users/anthonyscinocco/Exercism/csharp/robot-name/obj/Debug/netcoreapp2.1/RobotName.AssemblyInfoInputs.cache
 /Users/anthonyscinocco/Exercism/csharp/robot-name/obj/Debug/netcoreapp2.1/RobotName.AssemblyInfo.cs
+/Users/anthonyscinocco/Exercism/csharp/robot-name/obj/Debug/netcoreapp2.1/RobotName.dll
+/Users/anthonyscinocco/Exercism/csharp/robot-name/obj/Debug/netcoreapp2.1/RobotName.pdb

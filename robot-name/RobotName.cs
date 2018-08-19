@@ -1,54 +1,73 @@
 using System;
 using System.Collections.Generic;
-using System.Linq;
-//using Sys;
+using System.Text.RegularExpressions;
 
 public class Robot
 {
-    private static List<string> usedNames;
+    private static List<string> UsedRobotNames = new List<string>();
 
-    private string buildName()
-    {
-        Random random = new Random();
-        const string alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-        const string numbers = "0123456789";
-        const string robotNameAlpha = new String(
-            Enumerable
-                .Repeat(alpha, 2)
-                .Select(s => s[random.Next(s.Length)]).ToArray()
-        );
-        const string robotNameNumeric = new String(
-            Enumerable
-            .Repeat(numbers, 3)
-            .Select(s => s[random.Next(s.Length)]).ToArray()
-        );
-        return robotNameAlpha + robotNameNumeric;
-    }
+    private Random Generator = new Random();
 
-    private bool validateName(string name)
-    {
-        string result = usedNames.Find(n => n == name);
-        if (result) return true;
-        return false;
-    }
+    private int NumberOfAlphaCharsNeeded = 2;
 
-    public string Name
+    private readonly char[] Aplhabet = new char[]
     {
-        get
+        'A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K',
+        'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V',
+        'W', 'X', 'Y', 'Z'
+    };
+
+    private readonly char[] Numbers = new char[]
+    {
+        '0', '1', '2', '3', '4', '5', '6', '7', '8', '9'
+    };
+
+    private string BuildName()
+    {
+        char[] NewName = new char[5];
+        for (int i = 0; i < 5; i++)
         {
-            bool nameIsValid = false;
-            string robotName;
-            while (nameIsValid == false)
-            {
-                robotName = this.buildName();
-                nameIsValid = this.validateName(robotName);
+            if (i <= this.NumberOfAlphaCharsNeeded) {
+                int alphaPos = this.Generator.Next(0, this.Aplhabet.Length);
+                NewName[i] = this.Aplhabet[alphaPos];
             }
-            return robotName;
+
+            int numericPos = this.Generator.Next(0, this.Numbers.Length);
+            NewName[i] = this.Numbers[numericPos];
         }
+        return NewName.ToString();
+    }
+
+    private bool ValidateName(string RobotName)
+    {
+        Regex RobotNameValidator = new Regex(@"[A-Z]{2}\d{3}");
+        bool NameIsValid = RobotNameValidator.IsMatch(RobotName);
+        //Console.WriteLine(RobotName);
+        if (!NameIsValid) return false;
+        bool FoundName = UsedRobotNames.Contains(RobotName);
+        if (FoundName) return false;
+        return true;
+    }
+
+    public string GetName()
+    {
+        string GeneratedName = this.BuildName();
+        Console.WriteLine(GeneratedName);
+        bool NameIsValid = this.ValidateName(GeneratedName);
+        if (!NameIsValid) this.GetName();
+        UsedRobotNames.Add(GeneratedName);
+        return GeneratedName;
+    }
+
+    public string Name;
+
+    public Robot()
+    {
+        this.Name = this.GetName();
     }
 
     public void Reset()
     {
-        throw new NotImplementedException("You need to implement this function.");
+        this.Name = this.GetName();
     }
 }
